@@ -33,6 +33,7 @@ dependencies:
 Eğer projeyi geliştirmek veya hataları düzeltmek isterseniz, GitHub deposuna "pull request" (çekme isteği) gönderebilirsiniz. Lütfen yaptığınız katkıları açıklayıcı bir başlıkla isimlendirin ve yorumlarınızda detaylı açıklamalar ekleyin.
 
 ```
+![Screenshot_1691007909](https://github.com/HaticeDilmac/json_serializable_example/assets/100489350/d86fbbde-f6b3-4103-a568-d41dae1f8704)
 
 English Description:
 ```
@@ -66,3 +67,4 @@ If you wish to enhance the project or fix issues, you can send a "pull request" 
 
 ```als,
 samples, guidance on mobile development, and a full API reference.
+![Screenshot_1691007909](https://github.com/HaticeDilmac/json_serializable_example/assets/100489350/49ce564f-a6a6-46ca-a6bc-2ed96b1212aa)
